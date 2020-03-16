@@ -1,3 +1,3 @@
 # hello-world
 
-Coming soon. Testing from VS Code.
+Coming soon. Testing from CLI.
